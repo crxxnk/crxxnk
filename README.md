@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an open world survival game<br>🌱 I’m currently learning the C++ programming language<br>💬 Ask me about anything<br>⚡ Fun fact I'm 15 years old
+🔭 I’m currently working on a text editor and a minimal OS<br>🌱 I’m proficient in the C/C++ programming language<br>⚡ Fun fact: I like zelda games
 
 
 # 💻 Tech Stack:
