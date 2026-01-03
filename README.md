@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a text editor and a minimal OS<br>🌱 I’m proficient in the C/C++ programming language<br>⚡ Fun fact: I like zelda games
+🔭 I’m currently working on a text editor and a minimal OS<br>🌱 I’m a C/C++ programmer <br>⚡ Fun fact: I like zelda games
 
 
 # 💻 Tech Stack:
